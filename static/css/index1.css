@@ -1,0 +1,62 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
+body{
+  background-color: #dbc6eb;
+  font-family: sans-serif;
+}
+
+.nav_logo{
+  width: 5%;
+  border-radius: 0 10px 10px 0 ;
+}
+hr{
+  margin: 0;
+  border-top: 2px solid #8566aa;
+}
+.fa-user{
+  font-size: 40px;
+  float: right;
+  padding: 1%;
+  margin: 1%;
+}
+.products{
+  margin-top: 2%;
+}
+nav{
+  font-size: 40px;
+  color: #8566aa;
+margin-top: 1%;
+}
+ul{
+background-color: white;
+border-radius: 10px;
+width: 17%;
+list-style-type: none;
+padding: 2% 0;
+margin-top: 2%;
+padding-left: 1%;
+}
+li{
+  padding: 2%;
+  border-bottom: 2px solid #8566aa;
+  width: 90%;
+}
+.show_part img{
+  width: 25%;
+}
+p{
+  font-size: 25px;
+}
+.iframe_part{
+  background-color: white;
+  text-align: center;
+
+}
+.show{
+  display: hidden;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
